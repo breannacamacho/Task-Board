@@ -4,6 +4,8 @@ This project was based off starter code provided to me. It is a task tracking sy
 
 ![Sample Picture](./assets/images/task.png)
 
+**Visit The Deployed Application:** https://breannacamacho.github.io/Task-Board/
+
 ## Features
 
 - **Task Creation**: Users can add new tasks with a title, description, and due date.
